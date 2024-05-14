@@ -1,0 +1,46 @@
+{
+  "Companions":[
+    {
+      "name":"Albus Dumbledore",
+      "rarity":"Mythic",
+      "type":"Companion",
+      "image":"../images/Albus_Dumbledore_Card"
+    },
+
+    {
+      "name":"Daniel Page",
+      "rarity":"Rare",
+      "type":"Companion",
+      "image":"../images/Daniel_Page_Card"
+    },
+
+    {
+      "name":"Cassandra Vole",
+      "rarity":"Epic",
+      "type":"Companion",
+      "image":"../images/Cassandra_Vole_Card"
+    },
+
+    {
+      "name":"Frey Twins",
+      "rarity":"Epic",
+      "type":"Companion",
+      "image":"../images/Frey_Twins_Card"
+    },
+
+    {
+      "name":"Grawp",
+      "rarity":"Epic",
+      "type":"Companion",
+      "image":"../images/Grawp_Card"
+    },
+
+    {
+      "name":"Harry Potter",
+      "rarity":"Legendary",
+      "type":"Companion",
+      "image":"../images/Harry_Potter_Card"
+    }
+  ]
+}
+  

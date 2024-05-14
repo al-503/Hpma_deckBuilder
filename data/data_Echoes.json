@@ -1,0 +1,17 @@
+{
+  "Echoes": [
+    {
+      "name":"Rubeus Hagrid",
+      "rarity":"Legendary",
+      "level":16,
+      "image":".././Images/Echoes/Rubeus_Hagrid_Echo_Icon.png"
+    },
+
+    {
+      "name":"Newt Scamander",
+      "rarity":"Legendary",
+      "level":16,
+      "image":".././Images/Echoes/Newt_Scamander_Echo_Icon.png"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "Magic": [
+    {
+      "name":"Avada Kedavra",
+      "mana": 6,
+      "rarity":"Dark",
+      "type":"Spell",
+      "image":"../images/Magic/Spells/Avada_Kedavra_Card"
+    },
+
+    {
+      "name":"Atmospheric Charm",
+      "mana": 4,
+      "rarity":"Rare",
+      "type":"Spell",
+      "image":"../images/Magic/Spells/Atmospheric_Charm_Card"
+    },
+
+    {
+      "name":"Broomstick",
+      "mana": 2,
+      "rarity":"Rare",
+      "type":"Spell",
+      "image":"../images/Magic/Spells/Broomstick_Card"
+    },
+
+    {
+      "name":"Acromantula Venom",
+      "mana": 4,
+      "rarity":"Common",
+      "type":"Spell",
+      "image":"../images/Magic/Spells/Card_Acromantula_Venom"
+    },
+
+    {
+      "name":"Weasleys Wildfire Whiz bangs",
+      "mana": 7,
+      "rarity":"Epic",
+      "type":"Spell",
+      "image":"../images/Magic/Spells/Weasleys_Wildfire_Whiz_bangs_Card"
+    },
+
+    {
+      "name":"Cornish Pixies",
+      "mana": 3,
+      "rarity":"Common",
+      "type":"Summon",
+      "image":"../images/Magic/Summons/Card_Cornish_Pixies"
+    },
+
+    {
+      "name":"Fire Crab",
+      "mana": 5,
+      "rarity":"Rare",
+      "type":"Summon",
+      "image":"../images/Magic/Summons/Fire_Crab_Card"
+    },
+
+    {
+      "name":"Matagot",
+      "mana": 4,
+      "rarity":"Rare",
+      "type":"Summon",
+      "image":"../images/Magic/Summons/Matagot_Card"
+    },
+
+    {
+      "name":"Niffler",
+      "mana": 2,
+      "rarity":"Epic",
+      "type":"Summon",
+      "image":"../images/Magic/Summons/Niffler_Card"
+    },
+
+    {
+      "name":"Pietotum Locomotor",
+      "mana": 6,
+      "rarity":"Legendary",
+      "type":"Summon",
+      "image":"../images/Magic/Summons/Pietotum_Locomotor_Card"
+    },
+
+    {
+      "name":"The Monster Book of Monsters",
+      "mana": 3,
+      "rarity":"Rare",
+      "type":"Summon",
+      "image":"../images/Magic/Summons/The_Monster_Book_of_Monsters_Card"
+    }
+  ]
+}

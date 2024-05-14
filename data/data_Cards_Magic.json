@@ -5,7 +5,7 @@
       "mana": 6,
       "rarity":"Dark",
       "type":"Spell",
-      "image":"../images/Magic/Spells/Avada_Kedavra_Card"
+      "image":"../images/magic/spells/Avada_Kedavra_Card"
     },
 
     {
@@ -13,7 +13,7 @@
       "mana": 4,
       "rarity":"Rare",
       "type":"Spell",
-      "image":"../images/Magic/Spells/Atmospheric_Charm_Card"
+      "image":"../images/magic/spells/Atmospheric_Charm_Card"
     },
 
     {
@@ -21,7 +21,7 @@
       "mana": 2,
       "rarity":"Rare",
       "type":"Spell",
-      "image":"../images/Magic/Spells/Broomstick_Card"
+      "image":"../images/magic/spells/Broomstick_Card"
     },
 
     {
@@ -29,7 +29,7 @@
       "mana": 4,
       "rarity":"Common",
       "type":"Spell",
-      "image":"../images/Magic/Spells/Card_Acromantula_Venom"
+      "image":"../images/magic/spells/Card_Acromantula_Venom"
     },
 
     {
@@ -37,7 +37,7 @@
       "mana": 7,
       "rarity":"Epic",
       "type":"Spell",
-      "image":"../images/Magic/Spells/Weasleys_Wildfire_Whiz_bangs_Card"
+      "image":"../images/magic/spells/Weasleys_Wildfire_Whiz_bangs_Card"
     },
 
     {
@@ -45,7 +45,7 @@
       "mana": 3,
       "rarity":"Common",
       "type":"Summon",
-      "image":"../images/Magic/Summons/Card_Cornish_Pixies"
+      "image":"../images/magic/summons/Card_Cornish_Pixies"
     },
 
     {
@@ -53,7 +53,7 @@
       "mana": 5,
       "rarity":"Rare",
       "type":"Summon",
-      "image":"../images/Magic/Summons/Fire_Crab_Card"
+      "image":"../images/magic/summons/Fire_Crab_Card"
     },
 
     {
@@ -61,7 +61,7 @@
       "mana": 4,
       "rarity":"Rare",
       "type":"Summon",
-      "image":"../images/Magic/Summons/Matagot_Card"
+      "image":"../images/magic/summons/Matagot_Card"
     },
 
     {
@@ -69,7 +69,7 @@
       "mana": 2,
       "rarity":"Epic",
       "type":"Summon",
-      "image":"../images/Magic/Summons/Niffler_Card"
+      "image":"../images/magic/summons/Niffler_Card"
     },
 
     {
@@ -77,7 +77,7 @@
       "mana": 6,
       "rarity":"Legendary",
       "type":"Summon",
-      "image":"../images/Magic/Summons/Pietotum_Locomotor_Card"
+      "image":"../images/magic/summons/Pietotum_Locomotor_Card"
     },
 
     {
@@ -85,7 +85,7 @@
       "mana": 3,
       "rarity":"Rare",
       "type":"Summon",
-      "image":"../images/Magic/Summons/The_Monster_Book_of_Monsters_Card"
+      "image":"../images/magic/summons/The_Monster_Book_of_Monsters_Card"
     }
   ]
 }

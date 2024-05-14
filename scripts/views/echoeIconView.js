@@ -1,4 +1,3 @@
-// app.js exemple TODO rename 
 document.addEventListener('DOMContentLoaded', () => {
   // Relative path to the JSON file
   const jsonPath = '../data/data_Echoes.json';
@@ -12,7 +11,6 @@ document.addEventListener('DOMContentLoaded', () => {
           return response.json(); // Parse the JSON from the response
       })
       .then(data => {
-          //console.log(data); // Handle the JSON data
           displayData(data); // Call a function to display the data
       })
       .catch(error => {
@@ -20,7 +18,22 @@ document.addEventListener('DOMContentLoaded', () => {
       });
 });
 
-function displayData(data) { // need to change this function for make tile
-  const content = document.getElementById('echoesContent');
-  content.innerHTML = JSON.stringify(data, null, 2); // Display the JSON data in a pretty format
+function displayData(data) {
+    data.Echoes.forEach(echoe => {
+        // Paragraph
+        let paragraph = document.createElement("p");
+        let textNode = document.createTextNode(echoe.name);
+        paragraph.appendChild(textNode);
+
+        // Image
+        let image =  document.createElement("img");
+        image.src = echoe.image;
+        image.style.width = "150px";
+        image.style.height = "150px";
+
+        // Ajouter au containe
+        let container = document.getElementById("echoesContent")
+        container.appendChild(paragraph);
+        container.appendChild(image);
+    });
 }

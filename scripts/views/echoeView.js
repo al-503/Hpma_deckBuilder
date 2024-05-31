@@ -1,4 +1,5 @@
 class EchoeView {
+    // peut etre faire une function constructor  qui créer le echoescontent avant de le remplir avec le reste 
     render(data) {
         data.Echoes.forEach(echoe => {
             // Paragraph

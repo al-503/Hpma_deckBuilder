@@ -1,4 +1,4 @@
-export default class CompanionView {
+/* export default class CompanionView {
 
     constructor () {
 
@@ -44,3 +44,4 @@ export default class CompanionView {
         });
     }
 }
+ */
